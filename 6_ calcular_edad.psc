@@ -2,12 +2,20 @@ Algoritmo calcular_edad
 	// Hacer un programa que pida la fecha de nacimiento (día, mes y año) y
 	// calcule la edad de una persona indicando cuántos años, meses y días.
 	
+	escribir "Recuerda ingresar todo en datos numericos Enero(1), Febrero(2)..."
+
+	escribir  "Introduce tu día de nacimiento:"
 	leer dia_nacimiento
+	escribir  "Introduce tu mes de nacimiento:"
 	leer mes_nacimiento
+	escribir   "Introduce el año en que naciste:"
 	leer ano_nacimiento
 	
+	escribir "dia actual"
 	leer dia_actual
+	escribir "mes actual"
 	leer mes_actual
+	escribir "a;o actual"
 	leer ano_actual
 	
 	si mes_nacimiento > mes_actual o (mes_nacimiento = mes_actual y dia_nacimiento > dia_actual) entonces
