@@ -1,7 +1,7 @@
 <p align="center">
   <img width="150px" src="https://i.ibb.co/bXvzjXm/LOGO-h1.png" />
 </p>
-
+https://github.com/titooDiaz/PENSAMIENTO-ALGORTIMICO.git
 ### Taller 1 
 El taller se debe entregar en hoja examen con los diagramas a mano. La hoja debe tener los 
 integrantes del grupo. En caso de no escribir los nombres se considera que no pertenece al 
