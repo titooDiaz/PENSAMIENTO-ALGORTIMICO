@@ -1,5 +1,5 @@
-Algoritmo centenas_decenas
-//Hacer un programa en diagrama de flujo que reciba dos valores en 2 variables diferentes e
+Algoritmo cambiar_valores
+	//Hacer un programa en diagrama de flujo que reciba dos valores en 2 variables diferentes e
 	//intercambie los valores entre estas variables.
 	Escribir "Vamos a intercambiar variables"
 	Escribir  "escribe num1 "
